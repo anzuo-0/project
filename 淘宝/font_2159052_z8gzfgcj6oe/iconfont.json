@@ -1,0 +1,30 @@
+{
+  "id": "2159052",
+  "name": "taobao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13939357",
+      "name": "金币",
+      "font_class": "jinbi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7938978",
+      "name": "阿里旺旺",
+      "font_class": "aliwangwang",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3380837",
+      "name": "3.1旺旺-选中",
+      "font_class": "31wangwangxuanzhong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
